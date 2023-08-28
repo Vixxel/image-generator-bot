@@ -12,6 +12,6 @@
   "dependencies": {
     "discord.js": "^14.9.0",
     "djs-commander": "^0.0.45",
-    "replicate": "^0.11.1"
+    "replicate": "^0.14.1"
   }
 }
